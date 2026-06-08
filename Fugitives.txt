@@ -1,1 +1,7 @@
-
+<Listing1
+<ImageURL:"https://scontent.ftbs6-2.fna.fbcdn.net/v/t39.30808-6/295738352_145833761444085_6467039825479166176_n.jpg?stp=dst-jpg_tt6&cstp=mx720x720&ctp=s720x720&_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=37vKa-Osbl4Q7kNvwEeiuSk&_nc_oc=Adq3S1NB35ZTM_pT4unZxEFkwAjTp0iSY8o7X5DcbsWsHUmNlJ2UXA0bQK_lLZzlrds&_nc_zt=23&_nc_ht=scontent.ftbs6-2.fna&_nc_gid=Gc4P-FtBkMjR8fVXaQu79Q&_nc_ss=7b2a8&oh=00_Af-xk3pfynpKKbr9BAN8XidjfAZzhDt8HTbYmUKbZUwgdA&oe=6A2C7BCA"
+<CrimeCommited:"Attempted Child Exploitation, Interception of Communications, First-Degree Murder"
+<Name:"Irakli Goglidze"
+<CrimeDetails:"JANUARY 22 — 02:30 | Subject bypassed the rear perimeter fence of the 54th Public School using a master key override to access administrative and guidance counseling offices. Objective: extraction of restricted student files and installation of spyware on school network servers to intercept student communications. | JANUARY 22 — 02:45 | Subject was compromised inside the main office by night shift cleaner, M.V. (61). Surveillance logs confirm a physical altercation occurred while the subject was actively copying digital data. | JANUARY 22 — 06:15 | Day shift staff reported M.V. missing upon arrival. A pool of blood and a displaced network router were discovered in the guidance office. | JANUARY 23 — 11:10 | The body of M.V. was recovered from Lake Mtkvari, approximately 6 km from the school campus. Cause of death: blunt force trauma."
+<AdditionalPhotos:""
+>
