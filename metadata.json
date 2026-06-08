@@ -1,0 +1,6 @@
+{
+  "name": "Academic Bureau of Investigation",
+  "description": "FBI-style parody and fugitive tracking institutional portal for the Academic Bureau of Investigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
